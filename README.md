@@ -1,6 +1,8 @@
 # lpdensity_
 local polynomial distribution/density regression methods estimation and inference Use lpdensity With (In) R Software
 
+https://www.youtube.com/watch?v=B8lmBt9R56Y
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
